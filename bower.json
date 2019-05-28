@@ -1,0 +1,29 @@
+{
+  "name": "shopping_mall_08",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/hieubui1195/shopping_mall_08",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/assets/"
+  ],
+  "dependencies": {
+    "Font-Awesome": "https://github.com/FortAwesome/Font-Awesome.git#^5.0.6",
+    "iCheck": "https://github.com/fronteed/icheck.git#^1.0.2",
+    "fastclick": "https://github.com/ftlabs/fastclick.git#^1.0.6",
+    "components-font-awesome": "^5.0.6",
+    "Ionicons": "https://github.com/ionic-team/ionicons.git#^2.0.1",
+    "datatables.net": "^1.10.16",
+    "datatables.net-dt": "^3.2.2",
+    "popper.js": "https://github.com/FezVrasta/popper.js.git#^1.12.9",
+    "select2": "https://github.com/select2/select2.git#^4.0.5",
+    "bootstrap-daterangepicker": "https://github.com/dangrossman/bootstrap-daterangepicker.git#^2.1.27",
+    "moment": "^2.21.0",
+    "sweetalert2": "^7.15.1"
+  }
+}
